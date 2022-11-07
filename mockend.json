@@ -1,0 +1,61 @@
+{"productos":{
+    "id":1,
+    "Nombre": "Manzana Golden Marlene",
+    "Peso":"3 kg",
+    "Precio":2.91
+},{
+    "id":2,
+    "Nombre":"Uvas blancas con semilla",
+    "Peso":"2 kg",
+    "Precio":2.23
+},{
+    "id":3,
+    "Nombre":"Piña",
+    "Peso":"1.9 kg",
+    "Precio":4.55
+},{
+    "id":4,
+    "Nombre":"Melón",
+    "Peso":"2.4 kg",
+    "Precio":2.54
+},{
+    "id":5,
+    "Nombre":"Caqui",
+    "Peso":"1 kg",
+    "Precio":3.53
+},{
+    "id":6,
+    "Nombre":"Papaya",
+    "Peso":"1 kg",
+    "Precio":5.15
+},{
+    "id":7,
+    "Nombre":"Peras",
+    "Peso":"630 g",
+    "Precio":2.20
+},{
+    "id":8,
+    "Nombre":"Mango",
+    "Peso":"450 g",
+    "Precio":2.93
+},{
+    "id":9,
+    "Nombre":"Aguacate maduro",
+    "Peso":"450 g",
+    "Precio":5.43
+},{
+    "id":10,
+    "Nombre":"Naranja de mesa",
+    "Peso":"1 kg",
+    "Precio":2.34
+},{
+    "id":11,
+    "Nombre":"Kiwi verde",
+    "Peso":"600 g",
+    "Precio":3.99
+},{
+    "id":12,
+    "Nombre":"Lima",
+    "Peso":"300 g",
+    "Precio":2.29
+}}
