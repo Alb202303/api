@@ -1,4 +1,4 @@
-{"productos":{
+{
     "id":1,
     "Nombre": "Manzana Golden Marlene",
     "Peso":"3 kg",
@@ -58,4 +58,4 @@
     "Nombre":"Lima",
     "Peso":"300 g",
     "Precio":2.29
-}}
+}
